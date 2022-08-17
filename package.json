@@ -1,0 +1,18 @@
+{
+  "name": "cv_website",
+  "version": "1.0.0",
+  "description": "My CV in one website",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Magalhães",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.1",
+    "https": "^1.0.0",
+    "nodemon": "^2.0.19"
+  }
+}
